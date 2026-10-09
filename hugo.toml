@@ -1,0 +1,37 @@
+baseURL = 'https://muenchnerzeit.de/'
+locale = 'en-US'
+title = 'Münchner Zeitung'
+theme = "hugo-theme-stacknote"
+
+[params]
+    homeEyebrow = "Keine Sorge mehr für Dingen, die du nicht ändern kann"
+    homeTitle = "Wir publizieren jeder Gesichte oder Gelegenheit, um die Welt zu unterstützen"
+    homeIntro = "Es ist zeit, du konzentrierst dich in dem, worin Sie handeln können"
+    authorInitials = "MZ"
+    role = "Immer auf der Hut"
+
+[taxonomies]
+    tags = "tags"
+
+[outputs]
+    home = ["HTML"]
+
+[[menu.main]]
+  name = "Archiv"
+  url = "/archives/"
+  weight = 10
+
+[[menu.main]]
+  name = "Suchen"
+  url = "/search/"
+  weight = 20
+
+[[menu.main]]
+  name = "Schlagwörter"
+  url = "/tags/"
+  weight = 30
+
+[[menu.main]]
+  name = "Über uns"
+  url = "/about/"
+  weight = 40
