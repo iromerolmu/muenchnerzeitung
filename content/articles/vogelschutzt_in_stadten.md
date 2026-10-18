@@ -35,5 +35,12 @@ Nur in Deutschland, mehr als ein hundred million Tödesfälle pro Jahr passieren
 
 ## Was konnen wir alle machen, um dies zu verbessern
 
-Normalerweise sind die Vögle unfähig, die Glas zu erkennen. Die Transparenz von dem Glas macht es unmöglich für dem zu verstehen die Tatsache, dass ein Umleitung ist nötig, um die Kollision auszuweichen. Deshalb du kannst die Vögel leicht helfen nur bei die Fenster zu mahlen.
+Normalerweise sind die Vögle unfähig, die Glas zu erkennen. Die Transparenz von dem Glas macht es unmöglich für dem zu verstehen die Tatsache, dass ein Umleitung ist nötig, um die Kollision auszuweichen. Deshalb du kannst die Vögel leicht helfen nur bei die Fenster dekorieren.
 
+Eine gute Lösung, um die Fenstern zu dekorieren, ist mit einige Pflanzen die Kontur des Fensters zu füllen. Nicht nur die Vögel zu schützen du könntest, sondern auch der Luft, der du atmen, besser machen. Eine leichte Beispiel wirdt folgendes gezeignet.
+
+![Einige Pflanzen begleiten eine Fenster](https://images.pexels.com/photos/36310223/pexels-photo-36310223.jpeg)
+
+## Der Ergebnisse
+
+Wenn du die Fenster mit pflanzen dekorierst, denn reduzierst du die Flächeninhalt, die Tranzparent ist. Folge werden die Vögel wird leichter verstehen, dass Durchgehen nicht möglich ist und demnach umleiten.
