@@ -16,7 +16,7 @@ Der normale Mensch hat viele Dingen zu machen, verantwortlichkeiten, um sich zu 
 
 ## Was für ein Sport ist eine entspannende Sport
 
-Na ja, es soll allerdings viel gibt. Jedoch möchte ich hier über Spazierengehen sprechen. Aufgrunds est is nur eine Sport Art und Weise, aber es bedeutet viele andere Dingen, die zu dir, als Menschwesen, wichtig sind. Ein von diesem ist, dass du jeder Tag Spazierengehen schaffen konnen, unabhängig Ausruhen.
+Na ja, es soll allerdings viel gibt. Jedoch möchte ich hier über Spazierengehen sprechen. Aufgrunds est is nur eine Sport Art und Weise, aber es bedeutet viele andere Dingen, die zu dir, als Menschwesen, wichtig sind. Ein von diesem ist, dass du jeder Tag Spazierengehen schaffen konnen, unabhängig des Ausruhens.
 
 ![Die Silhouette von ein Frau, die nachmittags bei Fuß gehen](https://images.pexels.com/photos/37306372/pexels-photo-37306372.jpeg)
 
