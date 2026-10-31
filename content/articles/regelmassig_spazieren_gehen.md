@@ -16,7 +16,7 @@ Der normale Mensch hat viele Dingen zu machen, verantwortlichkeiten, um sich zu 
 
 ## Was für ein Sport ist eine entspannende Sport
 
-Na ja, es soll allerdings viel gibt. Jedoch möchte ich hier über Spazierengehen sprechen. Aufgrunds est is nur eine Sport Art und Weise, aber es bedeutet viele andere Dingen, die zu dir, als Menschwesen, wichtig sind. Ein von diesem ist, dass du jeder Tag Spazierengehen schaffen konnen, unbedingt Ausruhen.
+Na ja, es soll allerdings viel gibt. Jedoch möchte ich hier über Spazierengehen sprechen. Aufgrunds est is nur eine Sport Art und Weise, aber es bedeutet viele andere Dingen, die zu dir, als Menschwesen, wichtig sind. Ein von diesem ist, dass du jeder Tag Spazierengehen schaffen konnen, unabhängig Ausruhen.
 
 ![Die Silhouette von ein Frau, die nachmittags bei Fuß gehen](https://images.pexels.com/photos/37306372/pexels-photo-37306372.jpeg)
 
@@ -31,7 +31,7 @@ Auf dieser Grundlage, Spazierengehen ist nicht nur ein Glucklichkeits- und Gesun
 
 ## Nutzlichkeit
 
-Wenn man andere Sports machen, man sollt Zeit von seine Agenda benutzt, um nur das zu machen. Bei Spazierengehen, kann man von das Haus zu das Büro gehen oder umgekehrt. Zusätzlich es bietet die Gelegenheit zu nachdenken oder sozializieren. Zum beispiel, eine Spazierengehen nach Mittagsessen mit die Kolleg*innen, oder ein Park Runde durch den Park mit Freunde, ist eine gute Gewohnheit, um Bezihungen zu ausbauen.
+Wenn man andere Sports machen, man sollt Zeit von seine Agenda benutzt, um nur das zu machen. Bei Spazierengehen, kann man von das Haus zu das Büro gehen oder umgekehrt. Zusätzlich es bietet die Gelegenheit, unter anderen, zu sozializieren. Zum beispiel, eine Spazierengehen nach Mittagsessen mit die Kolleg*innen, oder ein Park Runde durch den Park mit Freunde, ist eine gute Gewohnheit, um Bezihungen zu ausbauen.
 
 ## Nicht mehr Ausreden, um kein Sport zu machen
 
