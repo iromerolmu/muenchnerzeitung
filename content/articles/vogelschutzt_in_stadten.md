@@ -1,6 +1,6 @@
 ---
 title: "Vogelschutzt in Städten"
-date: 2026-06-10
+date: 2026-10-06
 description: "Wie konnen Sie die Leben des Urbanvögel schutzen"
 tags: [Umwelt, Wissenschaftsjournalismus, Kultur, Reisefeatures, Innovation, Nachhaltigkeit]
 cover:

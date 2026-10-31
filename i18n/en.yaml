@@ -19,18 +19,18 @@
 - id: skipToContent
   translation: Skip to content
 - id: latestArticles
-  translation: Latest articles
+  translation: Letztes Artikeln
 - id: viewAll
   translation: View all
 - id: browseTopics
   translation: Browse by topic
 - id: featured
-  translation: Featured
+  translation: Im Fokus
 - id: continueReading
-  translation: Continue reading
+  translation: Weiterlesen
 - id: minRead
-  one: "{{ .Count }} min read"
-  other: "{{ .Count }} min read"
+  one: "{{ .Count }} min lesen"
+  other: "{{ .Count }} min lesen"
 - id: articleFallback
   translation: Article
 - id: site
@@ -84,7 +84,7 @@
 - id: followRss
   translation: Follow via RSS
 - id: tableOfContents
-  translation: On this page
+  translation: Auf dieser Seite
 - id: updated
   translation: Updated
 - id: copyCode
